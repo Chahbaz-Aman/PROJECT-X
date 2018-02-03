@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PROJECT-X</string>
+    <string name="ride_now">RIDE NOW</string>
+    <string name="book_a_ride">BOOK NOW</string>
+    <string name="cycle_status">CHECK STATUS</string>
+    <string name="background">Background</string>
+    <string name="QReaderAssist">Point your camera at the QR code.</string>
+    <string name="title_activity_detected__i">Detected_I</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="todo">TODO</string>
+</resources>
