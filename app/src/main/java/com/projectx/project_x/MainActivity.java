@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
              ride_button.setOnClickListener(new View.OnClickListener() {
                  @Override
                  public void onClick(View view) {
-                     Intent intent = new Intent(getApplicationContext(),OriginAuth.class);
+                     Intent intent = new Intent(getApplicationContext(),PreAuth.class);
                      startActivity(intent);
                  }
              });

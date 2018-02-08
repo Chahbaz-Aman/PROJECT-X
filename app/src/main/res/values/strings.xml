@@ -9,4 +9,6 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="todo">TODO</string>
+    <string name="low_storage_error">Low staorage space.</string>
+    <string name="HERE">HERE!</string>
 </resources>

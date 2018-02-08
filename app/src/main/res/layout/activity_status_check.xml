@@ -6,12 +6,10 @@
     android:layout_height="match_parent"
     tools:context="com.projectx.project_x.StatusCheck">
 
-    <ImageView
-        android:id="@+id/campus_mapIV"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@color/common_google_signin_btn_text_dark_focused"
-        android:contentDescription="@string/todo"
-        app:srcCompat="@drawable/campus_map" />
-
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" />
 </android.support.constraint.ConstraintLayout>

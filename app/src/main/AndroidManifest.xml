@@ -31,9 +31,10 @@
 
         <activity android:name=".StatusCheck" />
         <activity android:name=".RideInProgress" />
-        <activity android:name=".Detected_I"
-                  android:theme= "@android:style/Theme.Black.NoTitleBar.Fullscreen">
-    </activity>
+        <activity
+            android:name=".Detected_I"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"></activity>
+        <activity android:name=".PreAuth"></activity>
     </application>
 
 </manifest>
